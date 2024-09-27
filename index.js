@@ -174,3 +174,5 @@ if (auxPhraseReverse === auxPhraseToCheck) {
     console.log(`La frase: \n${phraseToCheck}\nNo es Palindromo `);
 
 }
+
+//Solved lab
